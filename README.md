@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bankroll313
+- 👋 Hi, im Brian Williams 
 - 👀 I’m interested in ... building a AI Website
 - 🌱 I’m currently learning ... Supabase but its very very hard and need help learning
 - 💞️ I’m looking to collaborate on ... With someone willing to teach me
